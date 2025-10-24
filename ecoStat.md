@@ -9,6 +9,6 @@ vous trouverez des références de sources ici : https://pad.libreon.fr/VWxwoJcw
      
 ## structures visuelles
      
-## les représentations de données voir les exemples de D3 https://observablehq.com/@d3/bar-chart-transitions/2
+## les représentations de données voir les exemples de D3 https://observablehq.com/@d3/pie-chart-update
       
 ## les interactions avec l'environnement
