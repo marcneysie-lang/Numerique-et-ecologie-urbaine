@@ -5,7 +5,7 @@ Modélisation qui s'inspire de l'écosystème du Numerique et ecologie urbaine
 https://pad.libreon.fr/VWxwoJcwR6uLMMrK1ETDYg
 
 ## sources de données (data brutes)
-vous trouverez des références de sources ici : https://pad.libreon.fr/VWxwoJcwR6uLMMrK1ETDYg
+vous trouverez des références de sources ici : 
 
 ## data tables
      
