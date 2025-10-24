@@ -1,4 +1,4 @@
-# environnement statistiques pour l'écosystème de connaissances du Master 2 ACEHN
+# Environnement statistiques pour l'écosystème de connaissances du Master 2 ACEHN
 
 Modélisation qui s'inspire de l'écosystème du Numerique et ecologie urbaine
 
